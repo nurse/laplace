@@ -1,6 +1,6 @@
 require "laplace/version"
 require "laplace/laplace"
 
-module Laplace
+class Laplace
   # Your code goes here...
 end
